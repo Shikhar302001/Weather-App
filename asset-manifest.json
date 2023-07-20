@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.fac3cb31.css",
+    "main.js": "/Weather-App/static/js/main.7e6be775.js",
+    "static/media/background.jpg": "/Weather-App/static/media/background.06f61040ae3255a9d50d.jpg",
+    "static/media/fa-solid-900.ttf": "/Weather-App/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Weather-App/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Weather-App/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Weather-App/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Weather-App/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Weather-App/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Weather-App/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Weather-App/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Weather-App/index.html",
+    "main.fac3cb31.css.map": "/Weather-App/static/css/main.fac3cb31.css.map",
+    "main.7e6be775.js.map": "/Weather-App/static/js/main.7e6be775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac3cb31.css",
+    "static/js/main.7e6be775.js"
+  ]
+}
