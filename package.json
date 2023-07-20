@@ -1,5 +1,6 @@
 {
   "name": "react-weather-app",
+  "homepage": "https://Shikhar302001.github.io/Weather-App",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -12,6 +13,7 @@
     "@react-icons/all-files": "^4.1.0",
     "axios": "1.4.0",
     "csbbust": "1.0.1",
+    "gh-pages": "^5.0.0",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-animated-icons": "^1.0.0",
@@ -25,6 +27,8 @@
     "typescript": "4.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
